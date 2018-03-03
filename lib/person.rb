@@ -1,4 +1,4 @@
 class Person
-  initialize(breed)
+  initialize(name)
     @name = name
 end
